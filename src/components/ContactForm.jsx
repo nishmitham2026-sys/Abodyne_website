@@ -228,7 +228,7 @@ export default function ContactForm() {
                   ></textarea>
                 </div>
 
-                <button type="submit" className="btn btn-primary-custom w-100 py-3 d-flex justify-content-center align-items-center gap-2">
+                <button type="submit" disabled className="btn btn-primary-custom w-100 py-3 d-flex justify-content-center align-items-center gap-2">
                   <i className="bi bi-send-fill"></i> Submit Inquiry
                 </button>
               </form>
